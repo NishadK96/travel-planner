@@ -2,8 +2,8 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Thiruvalla 3-Day Route Planner",
-  description: "A practical three-day field visit plan for 12 Thiruvalla-assigned destinations.",
+  title: "Thiruvalla 4-Day Route Planner",
+  description: "A practical four-day field visit plan with a maximum of three branches per day.",
   icons: { icon: "/favicon.svg", shortcut: "/favicon.svg" },
 };
 
